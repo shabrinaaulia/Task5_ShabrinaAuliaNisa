@@ -1,0 +1,12 @@
+﻿promo_id,promo_name,price_deduction,Description,Duration
+1,AWAL_GAJIAN,15000,Setiap Bulan Khusus Tanggal 1,1
+2,GRATIS_ONGKIR,5000,Berlaku Tahun 2022,365
+3,10_10,7500,Berlaku Tanggal 10 Bulan 10,1
+4,HARBOLNAS,30000,Setiap Tanggal 12 Bulan December,1
+5,END_YEAR,15000,Setiap Tanggal Selama Bulan December,30
+6,BERKAH_RAMADHAN,15000,Berlaku Tanggal 2 April - 1 Mei,30
+7,HARI_RAYA,20000,1 Mei,1
+8,TUJUHBELASAN,10000,Berlaku Tanggal 17 Agustus,1
+9,VALENTINE_DAY,10000,Berlaku 14 Februari,1
+10,EASTER_EGG,7500,Berlaku 17 April ,1
+11,CHRISTMAS,15000,Berlaku Tanggal 25 December - 31 December,8
